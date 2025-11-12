@@ -8,14 +8,14 @@ scene composition.
 
 ## 🎥 Demo
 
-You can view the video demonstration here:\
+You can view the video demonstration here:
 
 
 https://github.com/user-attachments/assets/df6a4854-40b8-4c8e-95b7-c125ad31dd80
 
 
 *(The demo shows a generated heatmap overlayed on the original video,
-illustrating regions where captions are least likely to obstruct key
+illustrating regions where captions are most likely to obstruct key
 visual elements.)*
 
 ## 🧩 About
