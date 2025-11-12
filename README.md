@@ -9,6 +9,11 @@ scene composition.
 ## 🎥 Demo
 
 You can view the video demonstration here:\
+
+
+https://github.com/user-attachments/assets/df6a4854-40b8-4c8e-95b7-c125ad31dd80
+
+
 *(The demo shows a generated heatmap overlayed on the original video,
 illustrating regions where captions are least likely to obstruct key
 visual elements.)*
@@ -35,4 +40,4 @@ shared.
 
 **Author:** [Kyle Du](mailto:kd533@cornell.edu)\
 **LinkedIn:** <https://www.linkedin.com/in/kd5336/>\
-**Date:** November 2025
+**Date:** August 2025
